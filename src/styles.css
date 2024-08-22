@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.rotate-icon-90 {
+  transform: rotate(90 deg);
+}
